@@ -1,1 +1,9 @@
 _runner*
+
+# Ignore all CSV files
+*.csv
+
+# Ignore the env directory
+env/
+
+*.env
